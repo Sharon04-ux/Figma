@@ -99,7 +99,7 @@ Figma
     <div class="card">
       <h2>Register</h2>
       <input type="text" placeholder="Name" />
-      <input type="text" placeholder="Reg No" />
+      <input type="text" placehoder="Reg No" />
       <input type="text" placeholder="Department" />
       <select>
         <option>Select Event</option>
